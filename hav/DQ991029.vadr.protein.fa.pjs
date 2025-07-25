@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "DQ991029.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "DQ991029/DQ991029.vadr.protein.fa",
+  "number-of-letters": 2228,
+  "number-of-sequences": 1,
+  "last-updated": "2025-07-22T23:03:00",
+  "number-of-volumes": 1,
+  "bytes-total": 39351,
+  "bytes-to-cache": 2374,
+  "files": [
+    "DQ991029.vadr.protein.fa.pdb",
+    "DQ991029.vadr.protein.fa.phr",
+    "DQ991029.vadr.protein.fa.pin",
+    "DQ991029.vadr.protein.fa.pot",
+    "DQ991029.vadr.protein.fa.psq",
+    "DQ991029.vadr.protein.fa.ptf",
+    "DQ991029.vadr.protein.fa.pto"
+  ]
+}

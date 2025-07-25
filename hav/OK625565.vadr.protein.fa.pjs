@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "OK625565.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "OK625565/OK625565.vadr.protein.fa",
+  "number-of-letters": 2227,
+  "number-of-sequences": 1,
+  "last-updated": "2025-07-22T22:49:00",
+  "number-of-volumes": 1,
+  "bytes-total": 39350,
+  "bytes-to-cache": 2373,
+  "files": [
+    "OK625565.vadr.protein.fa.pdb",
+    "OK625565.vadr.protein.fa.phr",
+    "OK625565.vadr.protein.fa.pin",
+    "OK625565.vadr.protein.fa.pot",
+    "OK625565.vadr.protein.fa.psq",
+    "OK625565.vadr.protein.fa.ptf",
+    "OK625565.vadr.protein.fa.pto"
+  ]
+}

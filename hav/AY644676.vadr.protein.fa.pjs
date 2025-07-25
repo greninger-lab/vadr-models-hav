@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "AY644676.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "AY644676/AY644676.vadr.protein.fa",
+  "number-of-letters": 2225,
+  "number-of-sequences": 1,
+  "last-updated": "2025-07-22T22:56:00",
+  "number-of-volumes": 1,
+  "bytes-total": 39348,
+  "bytes-to-cache": 2371,
+  "files": [
+    "AY644676.vadr.protein.fa.pdb",
+    "AY644676.vadr.protein.fa.phr",
+    "AY644676.vadr.protein.fa.pin",
+    "AY644676.vadr.protein.fa.pot",
+    "AY644676.vadr.protein.fa.psq",
+    "AY644676.vadr.protein.fa.ptf",
+    "AY644676.vadr.protein.fa.pto"
+  ]
+}
