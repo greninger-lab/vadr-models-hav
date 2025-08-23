@@ -4,7 +4,7 @@
 #=GS OK625565.1 DE Hepatovirus A isolate Hepatovirus A/0789/Haiti/2016, complete genome
 
 OK625565.1     TTCAAGAGGGGTCTCCGGAGATTTCCGGAGCCCCTCTTGGAAGTCCATGGTGAGGGGACTTGATACCTCACCGCCGTTTGCCTAGGCTATAGGCTAAATTTCCCTTTCCCTGTCCTTCCCTTATTTCCCTTTGTTTTACTTGTAAATATTAATTCCTGCAGGTTCAGGGTTCTTTAATCTGTTTCTCTATAAGAACACTC
-#=GC SS_cons   ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>:::::
+#=GC SS_cons   <<<<<<<<<<<-<<<<<<<____>>>>>>>>>>>>>>>>>>:::::::<<<<<<<__________>>>>>>>:::::::<<<<<_____>>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>:::::
 #=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #=GC RFCOLX... 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 #=GC RFCOL.X.. 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111112
@@ -313,7 +313,7 @@ OK625565.1     TTTGTGACCTTTCATGATTTGTTTAAACAAATTTTCTTAAAATTTCTGAGGTTTGTTTATTTCTT
 #=GS KX035096.1 DE Hepatovirus A isolate 18f.1, complete genome
 
 KX035096.1     TTTCCCTTTCCCTTTTTTCAAGAAGGGTCTCCGGGAATTTCCGGAGTCCCTCTTGGAAGTCCATGGTGAGGGGACTTGATACCTCACCGCCGTTTGCCTAGGCTATAGGCTAAATTTTCCCTTTCCCTTTTCCCTTTCCTATTCCCTTTGTTTTGCTTGTAAATATTGATTTGTAAATATTGATTCCTGCAGGTTCAGGG
-#=GC SS_cons   ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+#=GC SS_cons   ::::::::::::::::<<<<<<<<<<<-<<<<<<<____>>>>>>>>>>>>>>>>>>:::::::<<<<<<<__________>>>>>>>:::::::<<<<<_____>>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 #=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #=GC RFCOLX... 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 #=GC RFCOL.X.. 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111112
@@ -622,7 +622,7 @@ KX035096.1     AATGAGATTTTATGACCAGTGTTTCATTTGTGACCTTTCATGATTTGTTTAAATGAACTTTCTTA
 #=GS AY644676.1 DE Hepatitis A virus isolate CF53/Berne, complete genome
 
 AY644676.1     CCCTCTTGGAAGTCCATGGTGAGGGGACCTGATACCTCACCGCCGTTTGCCTAGGCTATAGGCTATTTCTCCCCTTCCCTTTTCCCTGTTTTGTGTAAATATTAATTCCTGCAGGTTCAGGGTTCTTTAATCTGTTTCTCTATAAGAACACTCATTTTCACGCTTTCTGTCTTGTTTGTTCCAGGGCTGTCCCCTTGCCC
-#=GC SS_cons   :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::
+#=GC SS_cons   :::::::::::::::::<<<<<<<__________>>>>>>>:::::::<<<<<_____>>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::
 #=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #=GC RFCOLX... 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 #=GC RFCOL.X.. 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111112
@@ -931,7 +931,7 @@ AY644676.1     GTTTATTTCTGAGGTTTGTTTATTTC
 #=GS AY644670.1 DE Hepatitis A virus strain SLF88, complete genome
 
 AY644670.1     CCCTCTTGGAAGTCCACTGTGAGGGACCTGATACCTCACCGCCGTTTGCCTAGGCTTTAGGCTATTTTTCCCTTTCCCTTTCCCCTGTTTTGTGTAAATATTAATTCCTGCAGGTTCAGGTTTCTTTAATCTGTTTCTCTATAAGAACACTCATTTTCACGCTTTCTGTCTGCTTTCTTCCAGGGCTCTCCCCTTGCCCT
-#=GC SS_cons   ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::(
+#=GC SS_cons   :::::::::::::::::<<<<<<<_________>>>>>>>:::::::<<<<<_____>>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>::::::::::::::::::::::::::::::::::::::::::::::::::::(
 #=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #=GC RFCOLX... 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 #=GC RFCOL.X.. 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111112
@@ -1240,7 +1240,7 @@ AY644670.1     GGTTTGTACCTGCT
 #=GS DQ991029.1 DE Hepatitis A virus isolate CP-IND, complete genome
 
 DQ991029.1     TTCAAGAGGGGTCTCCGGAGATTTCCTGAGTCCCTCTTGGGAGTCCATGGTGAGGGGACTTGATACCTCACCGCCGTTTGCCTAGGCTATAGGCTAAACTTCCCTTTCCCCTTTCCCTTTATTGTTGTAAATATTAATTCCTGCAGGTTCAGGTCTCTTGGATTTGTTCCACTTTATGGACACTCATTTCACGCTTTCTG
-#=GC SS_cons   :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>::::::::::::::::::::
+#=GC SS_cons   <<<<<<<<<<<-<<<<<<<____>>>>>>>>>>>>>>>>>>:::::::<<<<<<<__________>>>>>>>:::::::<<<<<_____>>>>>:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>::::::::::::::::::::
 #=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #=GC RFCOLX... 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 #=GC RFCOL.X.. 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111112
@@ -1549,7 +1549,7 @@ DQ991029.1     TGATTTGTTTAAACAAATTTTCTTAAAATTTCTGAGGTTTGTTTATTTTATCTTTTCAGAAAATA
 #=GS AB258387.1 DE Hepatitis A virus genomic RNA, complete genome, subgenotype IIIB, clone: HA-JNG06-90F
 
 AB258387.1     TTCAAGAGGGGCCTCCGGGTTTTCCGGAGCCCCTCTTGGGAGTCCATGGTGAGGGGACTTGATACCTCACCGCCGTTTGCCTAGGCTATAGGCTAATTTTCCCTTTTCCCTTTCCCTGTGTTATTGTAAATATTAATTCCTGCAGGTTCAGGGTTCTTGAATTTGTTCTGCTGTACAGACACTCATTTCACGCTCTCTGT
-#=GC SS_cons   ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>:::::::::::::::::::::
+#=GC SS_cons   <<<<<<<<<<<-<<<<<<<___>>>>>>>>>>>>>>>>>>:::::::<<<<<<<__________>>>>>>>:::::::<<<<<_____>>>>>:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<<<<_____>>>>:::::::::::::::::::::
 #=GC RF        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #=GC RFCOLX... 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 #=GC RFCOL.X.. 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111112
