@@ -6,7 +6,7 @@
   "description": "hav.fa",
   "number-of-letters": 44835,
   "number-of-sequences": 6,
-  "last-updated": "2025-08-14T12:46:00",
+  "last-updated": "2025-08-23T12:22:00",
   "number-of-volumes": 1,
   "bytes-total": 48776,
   "bytes-to-cache": 11378,
