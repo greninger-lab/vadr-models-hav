@@ -100,4 +100,3 @@ FEATURE AB258387 type:"mat_peptide" coords:"5933..7399:+" parent_idx_str:"1" gen
 FEATURE AB258387 type:"misc_structure" coords:"167..673:+" parent_idx_str:"GBNULL" note:"internal ribosomal entry site; IRES"
 FEATURE AB258387 type:"regulatory" coords:"5932..6041:+" parent_idx_str:"GBNULL" note:"cis-acting replication element; CRE" regulatory_class:"replication_regulatory_region"
 FEATURE AB258387 type:"stem_loop" coords:"1..93:+" parent_idx_str:"GBNULL"
-
