@@ -19,7 +19,7 @@ FEATURE OK625565 type:"stem_loop" coords:"42..60:+" parent_idx_str:"GBNULL" note
 FEATURE OK625565 type:"stem_loop" coords:"49..72:+" parent_idx_str:"GBNULL" note:"Hepatovirus A 5' UTR pseudoknot IA stem-loop 2"
 FEATURE OK625565 type:"stem_loop" coords:"73..87:+" parent_idx_str:"GBNULL" note:"Hepatovirus A 5' UTR pseudoknot IIA stem-loop 1"
 FEATURE OK625565 type:"stem_loop" coords:"80..94:+" parent_idx_str:"GBNULL" note:"Hepatovirus A 5' UTR pseudoknot IIA stem-loop 2"
-MODEL KP879217 blastdb:"KP879217.vadr.protein.fa" cmfile:"KP879217.vadr.cm" group:"HAV" subgroup:"IB" length:"7476"
+MODEL KP879217 blastdb:"KP879217.vadr.protein.fa" cmfile:"KP879217.vadr.cm" group:"HAV" subgroup:"IB" length:"7494"
 FEATURE KP879217 type:"gene" coords:"733..7416:+" parent_idx_str:"GBNULL" gene:"POLY"
 FEATURE KP879217 type:"CDS" coords:"733..7416:+" parent_idx_str:"GBNULL" product:"polyprotein"
 FEATURE KP879217 type:"mat_peptide" coords:"733..801:+" parent_idx_str:"1" gene:"POLY" product:"1A" note:"VP4"
