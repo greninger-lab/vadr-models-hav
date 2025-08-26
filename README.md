@@ -61,8 +61,14 @@ v-annotate.pl -r --mkey hav --mdir <hav-models-dir-path> <fasta-file-to-annotate
 ---
 ## <a name="havmodels"></a>HAV VADR model library
 * The VADR model library for HAV annotation was developed using representative sequences from the 6
-  genotypes currently available in the complete HAV genomes published in GenBank: OK625565(IA), KX035096(IB),​
+  genotypes currently available in the complete HAV genomes published in GenBank: OK625565(IA), KP879217(IB),​
   AY644676(IIA), AY644670(IIB), DQ991029(IIIA) and AB258387(IIIB).​
+
+* Some of the model genomes have been modified slightly on the 3' end to have polyA tails of consistent length and facilitate consistent behavior across the models. These include:
+  * OK625565 (IA) removed 7 As from 3' end 
+  * KP879217 (IB) added 18 As to 3' end
+  * DQ991029 (IIIA) removed 10 As from 3' end
+
 ---
 
 ## <a name="docs"> Additional VADR documentation
